@@ -1,0 +1,5 @@
+1 a - the code outputs 	51
+   b - the code outputs		10
+   c - the code outputs		 8
+   d -  the code returns an error since the outer_list variable was not defined. The list 'outer_list' cannot be
+	referenced from outside the function
